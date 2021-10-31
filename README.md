@@ -6,3 +6,4 @@ https://bytesjuridicos.com.br/gdpr-e-vazamento-de-dados/
 http://www.portaldaprivacidade.com.br/2018/06/12/tudo-o-que-voce-precisa-saber-para-nao-ficar-perdido-sobre-gdpr/
 https://www.navegg.com/blog/noticias/gdpr-tudo-sobre-o-general-data-protection-regulation/
 https://www.jota.info/opiniao-e-analise/artigos/10-coisas-que-sua-empresa-deve-saber-sobre-o-gdpr-da-uniao-europeia-11012018
+testand
